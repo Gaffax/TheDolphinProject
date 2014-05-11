@@ -23,6 +23,9 @@ public class HandleMemberFee{
 	}
 	*/
 	
+	//ÅBENLYS ÆNDRING
+
+
 			//Might need to change how the File path is found. Need to read up on that.
 	public static ArrayList<Member> memberToList() throws FileNotFoundException
 	{
@@ -91,7 +94,7 @@ public class HandleMemberFee{
 				}
 			}
 		}
-	/*
+	
 	public static void printOutList(ArrayList<Member> list){
 		/* Test method
 		 * This method was used for examining if the correct data was loaded into the list.
