@@ -91,7 +91,7 @@ public class HandleMemberFee{
 				}
 			}
 		}
-	
+	/*
 	public static void printOutList(ArrayList<Member> list){
 		/* Test method
 		 * This method was used for examining if the correct data was loaded into the list.
